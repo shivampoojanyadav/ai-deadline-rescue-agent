@@ -1,0 +1,30 @@
+# AI Deadline Rescue Agent
+
+## Problem Statement
+The Last-Minute Life Saver
+
+## Overview
+AI Deadline Rescue Agent is an AI-powered productivity companion that helps users plan, prioritize, and complete tasks before deadlines are missed.
+
+## Features
+- Smart Task Management
+- AI Priority Engine
+- AI Schedule Generator
+- Deadline Risk Detection
+- Recovery Plan Recommendations
+- Productivity Dashboard
+
+## Tech Stack
+- Django
+- SQLite
+- Gemini API
+- HTML/CSS
+- Python
+
+## Development Status
+Day 1:
+- Django Setup Completed
+- Database Integration Completed
+- Admin Panel Configured
+- Gemini API Connected
+- Frontend Task Rendering Completed
